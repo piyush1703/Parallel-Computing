@@ -1,0 +1,158 @@
+### Run 1
+
+Job ID = Job ID = 16896
+[0] Time with leader = 7.468959
+[0] Time without leader = 7.628035
+[0] Data= 12050390.301345
+
+
+Time for Execution = 16.982292857s  (This is system time donot rely on this for experiments) 
+Job ID = Job ID = 460636
+[0] Time with leader = 7.472380
+[0] Time without leader = 7.956999
+[0] Data= 12050390.301345
+
+
+Time for Execution = 16.816182746s  (This is system time donot rely on this for experiments) 
+Job ID = Job ID = 2133591
+[0] Time with leader = 29.566065
+[0] Time without leader = 31.587199
+[0] Data= 12511087.558580
+
+
+Time for Execution = 1m5.526881707s  (This is system time donot rely on this for experiments) 
+Job ID = Job ID = 69234
+[0] Time with leader = 32.409249
+[0] Time without leader = 32.313591
+[0] Data= 12511087.558580
+
+
+Time for Execution = 1m9.284968179s  (This is system time donot rely on this for experiments)
+
+
+### Run 2
+
+Job ID = Job ID = 420879
+[0] Time with leader = 15.763596
+[0] Time without leader = 13.634417
+[0] Data= 12050390.301345
+
+
+Time for Execution = 31.204487245s  (This is system time donot rely on this for experiments) 
+Job ID = Job ID = 2396465
+[0] Time with leader = 13.844432
+[0] Time without leader = 14.112724
+[0] Data= 12050390.301345
+
+
+Time for Execution = 29.668958121s  (This is system time donot rely on this for experiments) 
+Job ID = Job ID = 26497
+[0] Time with leader = 68.929009
+[0] Time without leader = 94.175615
+[0] Data= 12511087.558580
+
+
+Time for Execution = 2m49.798945062s  (This is system time donot rely on this for experiments) 
+Job ID = Job ID = 406331
+[0] Time with leader = 121.097027
+[0] Time without leader = 91.172354
+[0] Data= 12511087.558580
+
+
+Time for Execution = 3m42.157188246s  (This is system time donot rely on this for experiments)
+
+
+### Run 3
+
+Job ID = Job ID = 2026606
+[0] Time with leader = 27.892204
+[0] Time without leader = 27.171348
+[0] Data= 12050390.301345
+
+
+Time for Execution = 59.207589989s  (This is system time donot rely on this for experiments) 
+Job ID = Job ID = 68227
+[0] Time with leader = 27.967819
+[0] Time without leader = 28.589095
+[0] Data= 12050390.301345
+
+
+Time for Execution = 1m0.454859754s  (This is system time donot rely on this for experiments) 
+Job ID = Job ID = 3605181
+[0] Time with leader = 106.723413
+[0] Time without leader = 113.491181
+[0] Data= 12511087.558580
+
+
+Time for Execution = 3m51.846044497s  (This is system time donot rely on this for experiments) 
+Job ID = Job ID = 74473
+[0] Time with leader = 101.099566
+[0] Time without leader = 106.977327
+[0] Data= 12511087.558580
+
+
+Time for Execution = 3m38.152495281s  (This is system time donot rely on this for experiments)
+
+
+### Run 4
+
+Job ID = Job ID = 1617806
+[0] Time with leader = 21.452720
+[0] Time without leader = 21.758527
+[0] Data= 12050390.301345
+
+
+Time for Execution = 45.936115678s  (This is system time donot rely on this for experiments) 
+Job ID = Job ID = 434985
+[0] Time with leader = 21.146070
+[0] Time without leader = 21.867494
+[0] Data= 12050390.301345
+
+
+Time for Execution = 45.462119281s  (This is system time donot rely on this for experiments) 
+Job ID = Job ID = 1618155
+[0] Time with leader = 85.634766
+[0] Time without leader = 84.627200
+[0] Data= 12511087.558580
+
+
+Time for Execution = 2m57.278151393s  (This is system time donot rely on this for experiments) 
+Job ID = Job ID = 84825
+[0] Time with leader = 88.027873
+[0] Time without leader = 91.703988
+[0] Data= 12511087.558580
+
+
+Time for Execution = 3m7.975923907s  (This is system time donot rely on this for experiments)
+
+
+### Run 5
+
+Job ID = Job ID = 1500889
+[0] Time with leader = 38.003865
+[0] Time without leader = 35.611912
+[0] Data= 12050390.301345
+
+
+Time for Execution = 1m17.717414195s  (This is system time donot rely on this for experiments) 
+Job ID = Job ID = 422984
+[0] Time with leader = 35.394538
+[0] Time without leader = 31.646104
+[0] Data= 12050390.301345
+
+
+Time for Execution = 1m10.448045035s  (This is system time donot rely on this for experiments) 
+Job ID = Job ID = 363304
+[0] Time with leader = 89.831524
+[0] Time without leader = 96.338694
+[0] Data= 12511087.558580
+
+
+Time for Execution = 3m15.18896975s  (This is system time donot rely on this for experiments) 
+Job ID = Job ID = 2065830
+[0] Time with leader = 93.039710
+[0] Time without leader = 94.064462
+[0] Data= 12511087.558580
+
+
+Time for Execution = 3m16.789727324s  (This is system time donot rely on this for experiments)
