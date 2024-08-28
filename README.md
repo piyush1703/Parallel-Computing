@@ -4,7 +4,7 @@ We implement and optimise a halo-exchange algorithm using Message Passing Interf
 
 ### Motivation
 
-The primary motivation is the optimisation of scientific computations such as local gradient calculations and interpolation. Parallelisation using domain decomposition of such problems poses a significant issue in calculating values at the boundary of each domain present on separate processes. This requires some method of communicating required values to neighbouring processes. Since this is a potential bottleneck upon scaling to larger computing systems, optimisation is crucial for efficient usage of resources.
+The primary motivation is the optimisation of scientific computations such as local gradient calculations and interpolation. Parallelisation using domain decomposition of such problems poses a significant issue in calculating values at the boundary of each domain present on separate processes. This requires some method of communicating required values to neighbouring processes. Since this is a potential bottleneck upon scaling for larger computing systems, optimisation is crucial for efficient usage of resources.
 
 ### Implementation
 
@@ -18,4 +18,4 @@ The hierarchical implementation is accompanied by asynchronous `MPI_Isend` and `
 
 ### Scaling Study
 
-We use IIT Kanpur's HPC2010 cluster to scale and compare the naive and optimised implementations of the algorithm to analyse performance.
+We used IIT Kanpur's HPC2010 cluster to scale and compare the naive and optimised implementations of the algorithm to analyse performance.
